@@ -1,0 +1,8 @@
+TXN001, 1200, Credit
+TXN003, 2500, Credit
+TXN005, 900, Credit
+TXN007, 1100, Credit
+TXN008, 1500, Credit
+TXN010, 2000, Credit
+TXN012, 2750, Credit
+TXN014, 3300, Credit
